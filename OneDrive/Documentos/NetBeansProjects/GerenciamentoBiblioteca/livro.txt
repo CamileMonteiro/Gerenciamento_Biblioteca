@@ -1,0 +1,9 @@
+1;Interestelar ;Kip Thorne;2024;10;Interessante
+2;O Código Da Vinci;Dan Brown;2024;10;Muito bom
+3;Entendendo Algoritmos ;Aditya Bhargava;2025;10;Interessante
+4;A Revolução dos Bichos ;George Orwell;2025;10;Muito bom
+5;O Diário de Anne Frank;Orro H. e Mirjam Pressler;2023;8;Interessante
+6;Plano Alimentar;Juliethe Mardones ;2023;6;Mais ou Menos
+7;A Arte da Guerra;Sun Tzu;2024;8;Bom
+8;Os delírios de consumo de Becky Bloom;Sophie Kinsella;2025;10;Muito bom
+9;Mentirosos;E. Lockhart;2024;9;Mais ou Menos

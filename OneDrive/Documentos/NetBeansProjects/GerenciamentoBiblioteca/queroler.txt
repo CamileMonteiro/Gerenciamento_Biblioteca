@@ -1,0 +1,5 @@
+1;A Fórmula da Felicidade ;Mo Gawdat;Psicologia ;média
+2;O Código ;Tonio ;Terror;média
+3;A Fórmula da Autoconfiança ;Napoleon Hill;Auto Conhecimento ;média
+4;Raciocínio e Lógica;Editora Camelot;Estudo;alta
+5;O Alquimista;Paulo Coelho;Drama;alta
